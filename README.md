@@ -1,0 +1,1 @@
+# Equal_partion_sumOfString
